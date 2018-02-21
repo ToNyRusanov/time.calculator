@@ -6,7 +6,12 @@ import static javax.swing.JOptionPane.showInputDialog;
 import static javax.swing.JOptionPane.showMessageDialog;
 
 import java.util.concurrent.TimeUnit;
-
+/**
+ * 
+ * @author Anton Rusanov
+ * This class contains java code for converting seconds into days,hours and minutes. With the help of dialog windows. 
+ * 
+ */
 public class TimeCalculator {
 
 	public static void main(String[] args) {
